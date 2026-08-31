@@ -86,7 +86,7 @@ git --version
 
 ```powershell
 git clone https://github.com/ALamsyahh1412/CyberSecurityDev_test.git
-cd cybersecurity-dev-test
+cd CyberSecurityDev_test
 ```
 
 ### 2. Setup PostgreSQL
@@ -189,7 +189,7 @@ uvicorn app.main:app --reload
 Open a new terminal:
 
 ```powershell
-cd cybersecurity-dev-test\frontend
+cd CyberSecurityDev_test\frontend
 npm install
 npm run dev
 ```
